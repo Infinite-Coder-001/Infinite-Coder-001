@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 I'm currently trying to renew Khan Academy API. I already released **Hotlist API** (https://github.com/Infinite-Coder-001/Hotlist-API) and I'm going to release more! <br><br>
 To get notified, when I release a new API program, you can **subscribe** to me here, or on **Khan Academy**: <br>
 https://www.khanacademy.org/cs/i/6251203022864384<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Infinite-Coder-001&theme=vue&hide_border=true)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=Infinite-Coder-001&label=Profile+views&style=flat)
