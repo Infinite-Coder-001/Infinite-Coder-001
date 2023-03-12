@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Welcome to my profile page!** My username is **Infinite Coder**. 
-I'm currently trying to renew Khan Academy API. I already released **Hotlist API** and I'm going to release more! 
-To get notified, when I release a new API program, you can **subscribe** to me here, or on **Khan Academy**: 
+**Welcome to my profile page!** My username is **Infinite Coder**. <br>
+I'm currently trying to renew Khan Academy API. I already released **Hotlist API** (https://github.com/Infinite-Coder-001/Hotlist-API) and I'm going to release more! <br>
+To get notified, when I release a new API program, you can **subscribe** to me here, or on **Khan Academy**: <br>
 https://www.khanacademy.org/cs/i/6251203022864384
