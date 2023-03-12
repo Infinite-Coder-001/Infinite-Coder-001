@@ -1,7 +1,8 @@
 <h1 align="center">Infinite-Coder-001</h1>
 
 <p align="center">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=Infinite-Coder-001&theme=dark&background=000000"></img><br>
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=Infinite-Coder-001&theme=transparent&background=000000">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Infinite-Coder-001&hide_border=true&theme=transparent&show_icons=true">
 </p>
 
 <!--
@@ -33,5 +34,14 @@ https://www.khanacademy.org/cs/i/6251203022864384<br><br>
   <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height = "60">
   <img src = "https://seekicon.com/free-icon-download/arduino_2.svg" height = "60">
 </div><br>
+
+<p align = "center">
+  <a href="https://replit.com/@Markus1234">
+    <img src="https://img.shields.io/badge/Replit-darkslateblue?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
+  </a>
+  <a href="https://codepen.io/Markus1234">
+    <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
+  </a>
+</p>
 
 <p align = "center"><img src = "https://komarev.com/ghpvc/?username=Infinite-Coder-001&label=Profile+views&style=flat"></p>
