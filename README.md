@@ -1,4 +1,4 @@
-### Hi there 👋
+# Infinite-Coder-001
 
 <!--
 **Infinite-Coder-001/Infinite-Coder-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Welcome to my profile page!** My username is **Infinite Coder**. 
+I'm currently trying to renew Khan Academy API. I already released **Hotlist API** and I'm going to release more! 
+To get notified, when I release a new API program, you can **subscribe** to me here, or on **Khan Academy**: 
+https://www.khanacademy.org/cs/i/6251203022864384
