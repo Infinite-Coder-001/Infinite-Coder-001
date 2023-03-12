@@ -1,8 +1,6 @@
 # Infinite-Coder-001
 
-<center>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Infinite-Coder-001&theme=vue&hide_border=true)](https://git.io/streak-stats)
-</center>
 
 <!--
 **Infinite-Coder-001/Infinite-Coder-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
