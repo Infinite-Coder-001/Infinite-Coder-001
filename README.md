@@ -1,7 +1,7 @@
 <h1 align="center">Infinite-Coder-001</h1>
 
 <p align="center">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=Infinite-Coder-001&theme=transparent&background=000000">
+  <!--<img src = "http://github-readme-streak-stats.herokuapp.com?user=Infinite-Coder-001&theme=transparent&background=000000">-->
   <img src = "https://github-readme-stats.vercel.app/api?username=Infinite-Coder-001&hide_border=true&theme=transparent&show_icons=true">
 </p>
 
