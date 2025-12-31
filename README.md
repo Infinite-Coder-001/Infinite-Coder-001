@@ -1,7 +1,5 @@
 <h1 align="center">Infinite-Coder-001</h1>
 <h2>This is just my alt account. Please go to <a href="https://github.com/markusprograms">https://github.com/markusprograms</a> to visit my main profile. </h2>
-<h2>What's new? </h2>
-<p><b>My newest program: "<a href = "https://psani-na-klavesnici.cz" rel = "dofollow">Psaní na klávesnici</a>"</b></p>
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Infinite-Coder-001&theme=vue&hide_border=true)](https://git.io/streak-stats)
