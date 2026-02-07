@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   • <b>Sketch API: </b> <a href = "https://github.com/Infinite-Coder-001/Sketch-API">https://github.com/Infinite-Coder-001/Sketch-API</a> <br>
 and I'm going to release more! <br><br>
 <h2>Subscribe</h2>
-To get notified, when I release a new API program, you can <b>subscribe</b> to me here, or on <b>Khan Academy</b>: 
+To get notified when I release a new API program, you can <b>subscribe</b> to me here or on <b>Khan Academy</b>: 
 <a href = "https://www.khanacademy.org/cs/i/6251203022864384">https://www.khanacademy.org/cs/i/6251203022864384</a><br><br>
 
 <h2>My stats</h2>
